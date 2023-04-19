@@ -1,1 +1,1 @@
-ultralytics 8.0.233 improve Classify train augmentations (#4546)
+Add YOLOv8 LibTorch C++ inference example (#7090)
