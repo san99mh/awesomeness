@@ -1,1 +1,1 @@
-Update docs building code (#7601)
+Add C++ Classify inference example (#6868)
