@@ -1,1 +1,1 @@
-Update Docs README (#8919)
+Update CITATION.cff with cffinit corrections (#8658)
