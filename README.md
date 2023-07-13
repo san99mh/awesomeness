@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+Feature: Create HUB Models from CLI or Python Script (#7316)
