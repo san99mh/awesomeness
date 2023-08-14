@@ -1,1 +1,1 @@
-Add ONNX Docs integrations page (#7802)
+YOLOv8 INT8 TFLite Inference Example (#7317)
