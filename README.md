@@ -1,1 +1,1 @@
-Explorer Cleanup (#7364)
+Improve Docs arguments tables (#8415)
