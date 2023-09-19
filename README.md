@@ -1,1 +1,1 @@
-Update CITATION.cff with cffinit corrections (#8658)
+Add new YOLOv8 OBB model metrics (#7379)
