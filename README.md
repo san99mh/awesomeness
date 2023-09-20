@@ -1,1 +1,1 @@
-Add new YOLOv8 OBB model metrics (#7379)
+ultralytics 8.0.232 OpenCV 4.9.0 readonly np.array fix (#7256)
