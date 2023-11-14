@@ -1,1 +1,1 @@
-Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
+Add type hinting to explorer.py (#7388)
