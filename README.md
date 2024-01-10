@@ -1,1 +1,1 @@
-Fix RTDETR generate anchor grid out of boundary (#7247)
+ultralytics 8.1.25 OpenVINO LATENCY and THROUGHPUT modes (#8058)
