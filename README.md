@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+New test for labels and crops (#8861)
