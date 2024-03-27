@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
