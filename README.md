@@ -1,1 +1,1 @@
-Add Non-Maximum Suppression (NMS) inplace flag (#8368)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
