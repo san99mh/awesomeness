@@ -1,1 +1,1 @@
-example Google Colab
+Cleanup Docs languages (#7865)
