@@ -1,1 +1,1 @@
-* fix for KeyError: 'epoch'
+Add dota8.yaml and O tests (#7394)
