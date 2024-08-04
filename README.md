@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Mkdocs updates (#8008)
