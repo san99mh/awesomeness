@@ -1,1 +1,1 @@
-Update H1 in Explorer API docs (#7813)
+Update Docs Home and Neural Magic pages (#7243)
