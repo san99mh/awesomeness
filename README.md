@@ -1,1 +1,1 @@
-Add distance calculation feature in vision-eye (#8616)
+Update OpenVINO INT8 export (#7515)
