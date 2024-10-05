@@ -1,1 +1,1 @@
-Add settings runs_dir == datasets_dir warning (#8653)
+Resize angle, count, and stage on keypoint number change (#7598)
