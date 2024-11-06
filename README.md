@@ -1,1 +1,1 @@
-Both Link Opening Options - Have both the Open in Background option and the Open in New Tab option available alongside each other
+Add https://youtu.be/ie3vLUDNYZo and other YT videos in Docs (#8551)
